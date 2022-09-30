@@ -18,5 +18,5 @@ Nabrio's mission is to sustainably accelerate the democratisation of artificial 
 We build AI, computer vision, IoT, and robotic tools to enhance our intelligence, tackle challenges and solve problems in all industries. 
 Ultimately helping humanity along with other species living within the same world to thrive together.
 
-Links:
-- [website](www.nabrio.com)
+Links:  
+[nabrio.com](https://www.nabrio.com)
