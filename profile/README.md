@@ -2,11 +2,12 @@
 
 # Nabrio
 
+We are building AI-powered automation tools.
+Nabrio strives to create a sustainable future where everyone, and not just the privileged few, has access to the transformative power of artificial intelligence and robotics.
 
-Nabrio's mission is to sustainably advance the democratisation of artificial intelligence and robotics for the benefit of all life. We create AI, computer vision, IoT, and robotic tools to enhance our intellect, tackle challenges, and solve problems across all sectors. Ultimately, this will help humanity, along with other species living in the same world thrive together.  
-
-[Our principles >](https://www.nabrio.com/about-us/principles)  
-[Our products >](https://www.nabrio.com/products)
+[About Us >](https://www.nabrio.com/about-us)  
+[Our Products >](https://www.nabrio.com/#solutions)
+[Our Services >](https://www.nabrio.com/services)
 
 
 **Website**  
