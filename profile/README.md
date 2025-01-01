@@ -2,15 +2,13 @@
 
 # Nabrio
 
-Nabrio's mission is to make AI-powered automation accessible to everyone, as traditional AI automation can be complex, expensive, time-consuming and often requiring specialised expertise across domains.
+Nabrio's mission is to make AI-powered automation accessible to everyone.
 
-To achieve this goal, Nabrio has been developing two key platforms:
+From raw data to automated intelligence, our end-to-end edge-based solutions transform the way organisations implement AI systems. By simplifying AI and IoT automation, we eliminate traditional barriers of specialised expertise and high costs, delivering intelligent automation in days, not months.
 
-Zene: This platform gathers data from IoT devices and analyses them using AI models. Based on the results, Zene makes decisions and performs external tasks. The platform also displays the information on an integrated dashboard. Zene is designed to be cost-effective with edge-based processing and simple with a low-code interface, allowing anyone to master the automation process.
+[Zene](https://nabrio.com/zene) - An edge-based automation platform that connects IoT devices, processes data through AI models, and executes intelligent workflows. Its low-code interface and real-time processing make sophisticated automation accessible and efficient.
 
-Reva: This platform is responsible for managing and automating the end-to-end AI training process. It ensures that the models are always up-to-date and performing at their best, helping to maintain the accuracy and effectiveness of the AI-powered automation. Reva's simplicity of use is ensured through its no-code interface, auto-labelling, and model fine-tuning capabilities, as well as seamless deployment to Zene.
-
-By providing these user-friendly, cost-effective tools, Nabrio aims to make AI-powered automation accessible to a wide range of individuals and organisations, regardless of their technical expertise.
+**Reva** - A streamlined AI training platform that automates data labeling, model training, and deployment. It dramatically reduces the time and expertise typically required for AI development.
 
 
 [About Us >](https://www.nabrio.com/about-us)  
