@@ -1,6 +1,5 @@
-<img src="https://user-images.githubusercontent.com/53931009/193286905-563e51a6-1140-4385-a5fc-d04ef7d20d12.svg" width="120">
+![banner_2025_8_cropped_compressed](https://github.com/user-attachments/assets/3ab10dab-614e-4dd2-935a-92b82fc34b89)
 
-# Nabrio
 
 Nabrio's mission is to make AI-powered automation accessible to everyone.
 
@@ -12,9 +11,8 @@ From raw data to automated intelligence, our end-to-end edge-based solutions tra
 
 
 [About Us >](https://www.nabrio.com/about-us)  
-[Our Products >](https://www.nabrio.com/#solutions)  
-[Our Services >](https://www.nabrio.com/services)
-
+[Our Solutions >](https://www.nabrio.com/#solutions)  
+[Join us >](https://nabrio.com/careers)
 
 **Website**  
 [nabrio.com](https://www.nabrio.com)  
