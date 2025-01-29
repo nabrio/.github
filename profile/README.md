@@ -1,9 +1,9 @@
 ![banner_2025_8_cropped_compressed](https://github.com/user-attachments/assets/3ab10dab-614e-4dd2-935a-92b82fc34b89)
 
 
-Nabrio's mission is to make AI-powered automation accessible to everyone.
+Nabrio makes physical AI automation accessible to businesses & solution providers with our low-code, plug-and-play, edge-computing platforms.
 
-From raw data to automated intelligence, our end-to-end edge-based solutions transform the way organisations implement AI systems. By simplifying AI and IoT automation, we eliminate traditional barriers of specialised expertise and high costs, delivering intelligent automation in days, not months.
+We believe technology should enhance human capabilities, not replace them. Our mission is to empower human potential through intelligent automation. Automating machine-to-machine tasks, enables people to focus on what they do best: creativity, innovation, and meaningful interactions.
 
 [Zene](https://nabrio.com/zene) - An edge-based automation platform that connects IoT devices, processes data through AI models, and executes intelligent workflows. Its low-code interface and real-time processing make sophisticated automation accessible and efficient.
 
