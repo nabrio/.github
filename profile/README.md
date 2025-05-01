@@ -5,7 +5,7 @@ Nabrio makes physical AI automation accessible to businesses & solution provider
 
 We believe technology should enhance human capabilities, not replace them. Our mission is to empower human potential through intelligent automation. Automating machine-to-machine tasks, enables people to focus on what they do best: creativity, innovation, and meaningful interactions.
 
-[Zene](https://nabrio.com/zene) - An edge-based automation platform that connects IoT devices, processes data through AI models, and executes intelligent workflows. Its low-code interface and real-time processing make sophisticated automation accessible and efficient.
+[Nara](https://nabrio.com/nara) - An edge-based automation platform that connects IoT devices, processes data through AI models, and executes intelligent workflows. Its low-code interface and real-time processing make sophisticated automation accessible and efficient.
 
 **Reva** - A streamlined AI training platform that automates data labeling, model training, and deployment. It dramatically reduces the time and expertise typically required for AI development.
 
